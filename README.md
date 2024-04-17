@@ -1,7 +1,7 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)]
+[![MasterHead](https://qph.cf2.quoracdn.net/main-qimg-cf23d5c33ff1ad50cf49d02721b4b5e2)]
 <h1 align="center">Hi 👋, I'm Selwin</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://giphy.com/explore/coding-language">
+<img align="right" alt="Coding" width="400" src="https://www.newus.in/static/media/C-Language-at-newus-Dharamsala.e5c19b68fc0f40e2228a.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=s32lwin&label=Profile%20views&color=0e75b6&style=flat" alt="s32lwin" /> </p>
 
