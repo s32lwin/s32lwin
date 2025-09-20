@@ -5,7 +5,7 @@
 <h3 align="center">A CS student</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="250" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="350" />
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=s32lwin&label=Profile%20views&color=0e75b6&style=flat" alt="s32lwin" /> </p>
