@@ -1,3 +1,8 @@
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" height="250" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Selwin Oliveira</h1>
 <h3 align="center">A CS student</h3>
 
@@ -14,9 +19,6 @@
 - 📫 How to reach me **selwinoliver7@gmail.com**
 - 
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" height="250" />
-</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
